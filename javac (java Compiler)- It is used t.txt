@@ -1,0 +1,12 @@
+javac (java Compiler)- It is used to compile the java program.
+java (JVM)-  It is responsible to run jvm (Run the java program).
+javap (Java Prototype- Decompile)- It is responsible to partially decompile a java program.
+javadoc- It is responsible to generate documentation of a java program.
+javaw- It is responsible to run java program without windowing.
+javah- It is responsible to to generate header file from java program.
+jar (java archive )- It is responsible to to create, update and extract the any file in jar (for Core java app), war (web app) and ear (enterprise  archive) format.
+appletviewer-  It is responsible to run the applet program.
+jdb- java debugger.
+rmic- RMI compiler.
+rmiregistry- for rmi rmiregistry.
+jconsole- It is jvm monitoring mand management tool .
